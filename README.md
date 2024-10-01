@@ -25,3 +25,8 @@ Laravelプロジェクトのソースコード提示に不要と思われる、�
 wordpressのカスタム投稿で商品と販売企業をさせる、商品紹介ポータルサイト
 
 オリジナルテーマにてフルカスタマイズにて構築したテーマ一式を提示しております
+
+トップ
+[front-page.php](https://github.com/nakashima0528/nakashima2024/blob/main/wordpress/w01/front-page.php)
+商品詳細ページ
+[single-product.php](https://github.com/nakashima0528/nakashima2024/blob/main/wordpress/w01/single-product.php)
