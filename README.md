@@ -18,5 +18,6 @@ Laravelプロジェクトのソースコード提示に不要と思われる、�
 ## [wordpress/w01](https://github.com/nakashima0528/nakashima2024/tree/main/wordpress/w01)
 
 ### 日本のムスリム商品紹介サイト
+[https://jiohas.com/](https://jiohas.com/)
 
-wordpress 
+wordpressのオリジナルテーマを作成し、カスタム投稿で商品と販売企業をさせる、商品紹介ポータルサイト
