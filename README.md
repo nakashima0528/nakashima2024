@@ -19,15 +19,15 @@ Laravelプロジェクトのソースコード提示に不要と思われるフ�
 
 #### ピックアップ
 
-日次で延滞金等を計算するバッチ
+##### 日次で延滞金等を計算するバッチ
 
 [BatchDaily.php](https://github.com/nakashima0528/nakashima2024/blob/main/laravel/l01/app/Console/Commands/BatchDaily.php)
 
-請求関連のコントローラ
+##### 請求関連のコントローラ
 
 [InvoiceController.php](https://github.com/nakashima0528/nakashima2024/blob/main/laravel/l01/app/Http/Controllers/InvoiceController.php)
 
-データ処理を集約したリリポジトリ―
+##### データ処理を集約したリリポジトリ―
 
 [BaseRepository.php](https://github.com/nakashima0528/nakashima2024/blob/main/laravel/l01/app/Repositories/BaseRepository.php)
 
@@ -44,10 +44,10 @@ wordpressのカスタム投稿で商品と販売企業をさせる、商品紹�
 
 #### ピックアップ
 
-トップページ
+##### トップページ
 
 [front-page.php](https://github.com/nakashima0528/nakashima2024/blob/main/wordpress/w01/front-page.php)
 
-商品詳細ページ
+##### 商品詳細ページ
 
 [single-product.php](https://github.com/nakashima0528/nakashima2024/blob/main/wordpress/w01/single-product.php)
