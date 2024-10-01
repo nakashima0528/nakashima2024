@@ -2,6 +2,8 @@
 
 直近のLaravelを使ったWebサイトとWordpressをカスタマイズしたWebサイトをご提示します。
 
+全て一人で実装したサイトになり、phpの他css、Javascriptも含め提示しております。
+
 ## [laravel/l01](https://github.com/nakashima0528/nakashima2024/tree/main/laravel/l01)
 
 ### 海外顧客向けコンシェルジュサービス
@@ -20,4 +22,6 @@ Laravelプロジェクトのソースコード提示に不要と思われる、�
 ### 日本のムスリム商品紹介サイト
 [https://jiohas.com/](https://jiohas.com/)
 
-wordpressのオリジナルテーマを作成し、カスタム投稿で商品と販売企業をさせる、商品紹介ポータルサイト
+wordpressのカスタム投稿で商品と販売企業をさせる、商品紹介ポータルサイト
+
+オリジナルテーマにてフルカスタマイズにて構築したテーマ一式を提示しております
