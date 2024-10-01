@@ -11,11 +11,26 @@
 
 ・一般ユーザサイト
 
-・会員用マイページサイト
+・会員用マイページサイト home
 
-・運用管理サイト
+・運用管理サイト admin
 
 Laravelプロジェクトのソースコード提示に不要と思われる、ファイルは除外し主な機能と画面をピックアップして提示しております
+
+#### ピックアップ
+
+日次で延滞金等を計算するバッチ
+
+[BatchDaily.php](https://github.com/nakashima0528/nakashima2024/blob/main/laravel/l01/app/Console/Commands/BatchDaily.php)
+
+請求関連のコントローラ
+
+[InvoiceController.php](https://github.com/nakashima0528/nakashima2024/blob/main/laravel/l01/app/Http/Controllers/InvoiceController.php)
+
+データ処理を集約したリリポジトリ―
+
+[BaseRepository.php](https://github.com/nakashima0528/nakashima2024/blob/main/laravel/l01/app/Repositories/BaseRepository.php)
+
 
 ## [wordpress/w01](https://github.com/nakashima0528/nakashima2024/tree/main/wordpress/w01)
 
@@ -24,9 +39,14 @@ Laravelプロジェクトのソースコード提示に不要と思われる、�
 
 wordpressのカスタム投稿で商品と販売企業をさせる、商品紹介ポータルサイト
 
-オリジナルテーマにてフルカスタマイズにて構築したテーマ一式を提示しております
+オリジナルテーマにてフルカスタマイズにて構築したテーマ一式を提示しております。
 
-トップ
+#### ピックアップ
+
+トップページ
+
 [front-page.php](https://github.com/nakashima0528/nakashima2024/blob/main/wordpress/w01/front-page.php)
+
 商品詳細ページ
+
 [single-product.php](https://github.com/nakashima0528/nakashima2024/blob/main/wordpress/w01/single-product.php)
