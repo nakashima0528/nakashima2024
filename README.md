@@ -15,7 +15,7 @@
 
 ・運用管理サイト admin
 
-Laravelプロジェクトのソースコード提示に不要と思われる、ファイルは除外し主な機能と画面をピックアップして提示しております
+Laravelプロジェクトのソースコード提示に不要と思われるファイルは除外し、主な機能と画面を抜粋して提示しております
 
 #### ピックアップ
 
@@ -31,6 +31,7 @@ Laravelプロジェクトのソースコード提示に不要と思われる、�
 
 [BaseRepository.php](https://github.com/nakashima0528/nakashima2024/blob/main/laravel/l01/app/Repositories/BaseRepository.php)
 
+---
 
 ## [wordpress/w01](https://github.com/nakashima0528/nakashima2024/tree/main/wordpress/w01)
 
