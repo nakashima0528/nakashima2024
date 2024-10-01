@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+
+.card-body .form-group label {
+  font-weight: bold;
+}
+.card-body .form-group label + p {
+  min-height: 1em;
+  margin-left: 1em;
+}
+
+
+.users .card-header .dropdown {
+  float: right;
+}
+.users .table-responsive-sm {
+  max-height: 365px;
+  overflow-y: scroll;
+}
+
+.form-error {
+  margin-top: 0.5em;
+  color: crimson;
+}
+input[type=checkbox].checkbox--M {
+  width: 20px;
+}
+textarea.textarea--M {
+  height: 200px;
+}
+textarea.textarea--S {
+  height: 80px;
+}

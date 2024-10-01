@@ -1,0 +1,19 @@
+<svg id="グループ_2167" data-name="グループ 2167" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_2180" data-name="長方形 2180" width="17" height="17" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="グループ_2166" data-name="グループ 2166" clip-path="url(#clip-path)">
+    <rect id="長方形_2179" data-name="長方形 2179" width="16.054" height="14.658" rx="2.856" transform="translate(0.349 1.745)" fill="none" stroke="#535453" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="線_159" data-name="線 159" y2="3.49" transform="translate(4.537)" fill="none" stroke="#535453" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="線_160" data-name="線 160" y2="3.49" transform="translate(12.215)" fill="none" stroke="#535453" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="線_161" data-name="線 161" x2="16.054" transform="translate(0 6.631)" fill="none" stroke="#535453" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="パス_1700" data-name="パス 1700" d="M6.4,13.7a.7.7,0,1,1-.7-.7.7.7,0,0,1,.7.7" transform="translate(-1.51 -3.926)" fill="#535453"/>
+    <path id="パス_1701" data-name="パス 1701" d="M12.4,13.7a.7.7,0,1,1-.7-.7.7.7,0,0,1,.7.7" transform="translate(-3.322 -3.926)" fill="#535453"/>
+    <path id="パス_1702" data-name="パス 1702" d="M18.4,13.7a.7.7,0,1,1-.7-.7.7.7,0,0,1,.7.7" transform="translate(-5.134 -3.926)" fill="#535453"/>
+    <path id="パス_1703" data-name="パス 1703" d="M6.4,18.7a.7.7,0,1,1-.7-.7.7.7,0,0,1,.7.7" transform="translate(-1.51 -5.436)" fill="#535453"/>
+    <path id="パス_1704" data-name="パス 1704" d="M12.4,18.7a.7.7,0,1,1-.7-.7.7.7,0,0,1,.7.7" transform="translate(-3.322 -5.436)" fill="#535453"/>
+    <path id="パス_1705" data-name="パス 1705" d="M18.4,18.7a.7.7,0,1,1-.7-.7.7.7,0,0,1,.7.7" transform="translate(-5.134 -5.436)" fill="#535453"/>
+  </g>
+</svg>
